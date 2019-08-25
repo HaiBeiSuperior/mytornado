@@ -5,7 +5,7 @@ BASE_DIRS = os.path.dirname(__file__)
 
 #参数
 options = {
-    'port':80,
+    'port':8001,
 }
 
 #配置
